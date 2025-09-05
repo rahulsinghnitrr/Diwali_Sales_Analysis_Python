@@ -10,4 +10,4 @@ The repository contains the following files:
 
 - Diwali Sales Data.csv – The dataset used for analysis. It includes sales data from the Diwali festival, covering customer demographics, product categories, purchase amounts, and other relevant details.
 
-- Diwali_Sales_Analysis.ipynb – A Jupyter Notebook that documents the entire data analysis workflow, including data cleaning, exploration, visualization, and key conclusions.
+- Diwali-sales-analysis.ipynb – A Jupyter Notebook that documents the entire data analysis workflow, including data cleaning, exploration, visualization, and key conclusions.
